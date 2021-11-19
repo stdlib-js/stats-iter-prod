@@ -20,7 +20,7 @@ limitations under the License.
 
 # iterprod
 
-[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
 > Compute the product of all [iterated][mdn-iterator-protocol] values.
 
@@ -136,8 +136,8 @@ console.log( 'Product: %d.', p );
 
 ## See Also
 
--   [`@stdlib/stats/iter/mprod`][@stdlib/stats/iter/mprod]: create an iterator which iteratively computes a moving product.
--   [`@stdlib/stats/iter/sum`][@stdlib/stats/iter/sum]: compute the sum of all iterated values.
+-   <span class="package-name">[`@stdlib/stats/iter/mprod`][@stdlib/stats/iter/mprod]</span><span class="delimiter">: </span><span class="description">create an iterator which iteratively computes a moving product.</span>
+-   <span class="package-name">[`@stdlib/stats/iter/sum`][@stdlib/stats/iter/sum]</span><span class="delimiter">: </span><span class="description">compute the sum of all iterated values.</span>
 
 </section>
 
@@ -188,8 +188,12 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-iter-prod/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/stats-iter-prod?branch=main
 
+<!--
+
 [dependencies-image]: https://img.shields.io/david/stdlib-js/stats-iter-prod.svg
 [dependencies-url]: https://david-dm.org/stdlib-js/stats-iter-prod/main
+
+-->
 
 [chat-image]: https://img.shields.io/gitter/room/stdlib-js/stdlib.svg
 [chat-url]: https://gitter.im/stdlib-js/stdlib/
