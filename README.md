@@ -144,8 +144,8 @@ console.log( 'Product: %d.', p );
 
 ## See Also
 
--   <span class="package-name">[`@stdlib/stats/iter/mprod`][@stdlib/stats/iter/mprod]</span><span class="delimiter">: </span><span class="description">create an iterator which iteratively computes a moving product.</span>
--   <span class="package-name">[`@stdlib/stats/iter/sum`][@stdlib/stats/iter/sum]</span><span class="delimiter">: </span><span class="description">compute the sum of all iterated values.</span>
+-   <span class="package-name">[`@stdlib/stats-iter/mprod`][@stdlib/stats/iter/mprod]</span><span class="delimiter">: </span><span class="description">create an iterator which iteratively computes a moving product.</span>
+-   <span class="package-name">[`@stdlib/stats-iter/sum`][@stdlib/stats/iter/sum]</span><span class="delimiter">: </span><span class="description">compute the sum of all iterated values.</span>
 
 </section>
 
