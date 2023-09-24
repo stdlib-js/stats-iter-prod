@@ -65,7 +65,7 @@ p = \prod_{i=0}^{n-1} x_i
 ## Usage
 
 ```javascript
-import iterprod from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-prod@esm/index.mjs';
+import iterprod from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-prod@v0.1.0-esm/index.mjs';
 ```
 
 #### iterprod( iterator )
@@ -113,7 +113,7 @@ var p = iterprod( arr );
 <script type="module">
 
 import runif from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-iter-uniform@esm/index.mjs';
-import iterprod from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-prod@esm/index.mjs';
+import iterprod from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-iter-prod@v0.1.0-esm/index.mjs';
 
 // Create an iterator for generating uniformly distributed pseudorandom numbers:
 var rand = runif( -10.0, 10.0, {
